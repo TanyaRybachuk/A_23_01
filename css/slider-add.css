@@ -1,0 +1,13 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/mac-hdd\/pro\/2014\/vintage\/trade\/trade\/sass\/slider-add\.sass}line{font-family:\000033}}
+#content .sliders .thumb-slider {
+  position: fixed;
+  top: 318px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/mac-hdd\/pro\/2014\/vintage\/trade\/trade\/sass\/slider-add\.sass}line{font-family:\000036}}
+#content .sliders .thumb-slider.thumb-left {
+  left: -200px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Volumes\/mac-hdd\/pro\/2014\/vintage\/trade\/trade\/sass\/slider-add\.sass}line{font-family:\000038}}
+#content .sliders .thumb-slider.thumb-right {
+  right: -200px;
+}

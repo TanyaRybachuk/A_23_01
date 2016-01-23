@@ -1,0 +1,29 @@
+@media screen and (min-width: 1367px){
+    #content article.product .description-new p {
+        padding-bottom: 0;
+    }
+}
+
+
+@media screen and (min-width: 1366px){
+    #content article.product .description-new p {
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 1265px){
+    #content article.product .description-new p {
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 990px){
+    #content article.product .description-new p {
+        padding-bottom: 0;
+    }
+}
+@media screen and (min-width: 760px){
+    #content article.product .description-new p {
+        padding-bottom: 0;
+    }
+}
